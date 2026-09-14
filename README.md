@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Anup Barman 👋</h1>
+<h1 align="center">
+  Hi, I'm Anup Barman
+  <img src="https://raw.githubusercontent.com/anup-barman/anup-barman/main/assets/wave.svg" width="32" height="32" alt="waving hand">
+</h1>
 <h3 align="center">Competitive Programmer&nbsp;|&nbsp;Problem Solver&nbsp;|&nbsp;Software Developer</h3>
 
 <p align="center">
@@ -14,9 +17,12 @@
   </a>
 </p>
 
+<h3 align="center">🧑‍💻 About Me</h3>
+
 <p align="center">
-🎯 Competitive programmer focused on algorithms, data structures &amp; problem solving &nbsp;·&nbsp;
-📚 Active on Codeforces, AtCoder &amp; CodeChef &nbsp;·&nbsp;
+🎯 Competitive programmer focused on algorithms, data structures &amp; problem solving<br>
+🏆 2× ICPC Dhaka Regionalist (2024 &amp; 2025)<br>
+📚 Active on Codeforces, AtCoder &amp; CodeChef<br>
 💻 Also building &amp; exploring software development — check out my repos on <a href="https://github.com/anup-barman">GitHub @anup-barman</a>
 </p>
 
@@ -30,24 +36,16 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white">
-  <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed&logoColor=white">
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logoColor=white">
 </p>
 
-<h3 align="center">👾 Contribution Graph</h3>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anup-barman/anup-barman/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anup-barman/anup-barman/pacman-output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/anup-barman/anup-barman/pacman-output/galaga-contribution-graph.svg">
-</picture>
-</p>
+<h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
