@@ -25,7 +25,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="68%" valign="middle">
-      <h3>🚀 About Me</h3>
+      <h3>🧑‍💻 About Me</h3>
       <p>
         🏆&nbsp; 2× ICPC Dhaka Regionalist (2024 &amp; 2025)<br>
         🎯&nbsp; Love algorithms, data structures &amp; problem solving<br>
