@@ -59,10 +59,10 @@
 
 <table align="center">
   <tr>
-    <td width="230" align="center" valign="middle">
+    <td width="225" align="center" valign="middle">
       <img src="./assets/elmo_fire.gif" width="200" alt="Elmo on Fire" style="border-radius: 8px;">
     </td>
-    <td width="550" valign="middle">
+    <td width="545" valign="middle">
       <h3>🤝 Connect with Me</h3>
       <p>
         Always open to discussing competitive programming, collaborating on software projects, or sharing contest post-mortems!
