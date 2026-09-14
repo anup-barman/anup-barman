@@ -25,7 +25,7 @@
 💻 Also building &amp; exploring software development — check out my repos on <a href="https://github.com/anup-barman">GitHub @anup-barman</a>
 </p>
 
-<h3 align="center">🛠️ Languages &amp; Tools</h3>
+<h3 align="center">🛠️ Languages &amp; Tools I use</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
