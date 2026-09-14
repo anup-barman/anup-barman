@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-<br />
+<!-- <br /> -->
 
 <div align="center">
   <h3>🛠️ Languages &amp; Tools</h3>
