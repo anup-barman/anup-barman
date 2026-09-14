@@ -22,7 +22,6 @@
 <p align="center">
 🎯 Competitive programmer focused on algorithms, data structures &amp; problem solving<br>
 🏆 2× ICPC Dhaka Regionalist (2024 &amp; 2025)<br>
-📚 Active on Codeforces, AtCoder &amp; CodeChef<br>
 💻 Also building &amp; exploring software development — check out my repos on <a href="https://github.com/anup-barman">GitHub @anup-barman</a>
 </p>
 
