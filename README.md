@@ -23,6 +23,8 @@
   </a>
 </p>
 
+<!-- <hr> -->
+
 <h3 align="center"><img src="./assets/hypee-elmo-hype.gif" width="60" alt="Elmo hype"> About Me</h3>
 
 <p align="center">
@@ -31,6 +33,8 @@
   💻 Also building &amp; exploring software development<br>
   📁 Check out my repos on <a href="https://github.com/anup-barman">github@anup-barman</a>!
 </p>
+
+<!-- <hr> -->
 
 <h3 align="center">
   <img src="./assets/hacker-cat.gif" width="60" alt="Hacker cat"> Languages &amp; Tools I use <img
@@ -45,7 +49,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-<hr>
+<!-- <hr> -->
 
 <h3 align="center">💥 Connect with Me 💥</h3>
 <div align="center">
