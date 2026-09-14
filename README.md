@@ -26,7 +26,7 @@
 
 <table align="center">
   <tr>
-    <td width="490" valign="middle">
+    <td width="530" valign="middle">
       <h3>🧑‍💻 About Me</h3>
       <p>
         🏆&nbsp; 2× ICPC Dhaka Regionalist (2024 &amp; 2025)<br>
@@ -36,7 +36,7 @@
         📁&nbsp; Building, experimenting and sharing along the way!
       </p>
     </td>
-    <td width="220" align="center" valign="middle">
+    <td width="240" align="center" valign="middle">
       <img src="./assets/hacker-cat.gif" width="220" alt="Hacker Cat typing" style="border-radius: 8px;">
     </td>
   </tr>
@@ -59,10 +59,10 @@
 
 <table align="center">
   <tr>
-    <td width="240" align="center" valign="middle">
+    <td width="230" align="center" valign="middle">
       <img src="./assets/elmo_fire.gif" width="200" alt="Elmo on Fire" style="border-radius: 8px;">
     </td>
-    <td width="500" valign="middle">
+    <td width="550" valign="middle">
       <h3>🤝 Connect with Me</h3>
       <p>
         Always open to discussing competitive programming, collaborating on software projects, or sharing contest post-mortems!
