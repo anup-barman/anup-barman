@@ -11,8 +11,10 @@
     <a href="https://codeforces.com/profile/AnupBarman" target="_blank">
       <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="28">
     </a>
-    <a href="https://atcoder.jp/users/AnupBarman" target="_blank">
-      <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logoColor=white" alt="AtCoder" height="28">
+    <a href="https://atcoder.jp/users/AnupBarman">
+      <img alt="AtCoder logo" src="https://img.atcoder.jp/assets/atcoder.png" height="28">
+      <img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logoColor=white"
+        height="28">
     </a>
     <a href="https://www.codechef.com/users/anup_barman" target="_blank">
       <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="28">
