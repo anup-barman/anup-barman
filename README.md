@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="./assets/happy-cat.gif" width="60" alt="happy happy cat">
-  Hi, I'm Anup Barman
-  <img src="./assets/happy-cat.gif" width="60" alt="happy happy cat">
+  <!-- <img src="./assets/happy-cat.gif" width="60" alt="happy happy cat"> -->
+  Hi, I'm Anup Barman!
+  <!-- <img src="./assets/happy-cat.gif" width="60" alt="happy happy cat"> -->
 </h1>
 
 <h3 align="center">Competitive Programmer&nbsp;|&nbsp;Problem Solver&nbsp;|&nbsp;Software Developer</h3>
