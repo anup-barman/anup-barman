@@ -24,9 +24,9 @@
 
 <br />
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="480" valign="middle">
+    <td width="68%" valign="middle">
       <h3>🧑‍💻 About Me</h3>
       <p>
         🏆&nbsp; 2× ICPC Dhaka Regionalist (2024 &amp; 2025)<br>
@@ -36,7 +36,7 @@
         📁&nbsp; Building, experimenting and sharing along the way!
       </p>
     </td>
-    <td width="220" align="center" valign="middle">
+    <td width="32%" align="center" valign="middle">
       <img src="./assets/hacker-cat.gif" width="220" alt="Hacker Cat typing" style="border-radius: 8px;">
     </td>
   </tr>
@@ -57,12 +57,12 @@
 
 <!-- <br /> -->
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="220" align="center" valign="middle">
+    <td width="32%" align="center" valign="middle">
       <img src="./assets/elmo_fire.gif" width="200" alt="Elmo on Fire" style="border-radius: 8px;">
     </td>
-    <td width="480" valign="middle">
+    <td width="68%" valign="middle">
       <h3>🤝 Connect with Me</h3>
       <p>
         Always open to discussing competitive programming, collaborating on software projects, or sharing contest post-mortems!
