@@ -30,9 +30,10 @@
       <h3>🧑‍💻 About Me</h3>
       <p>
         🏆&nbsp; 2× ICPC Dhaka Regionalist (2024 &amp; 2025)<br>
-        🎯&nbsp; Love algorithms, data structures &amp; problem solving<br>
-        💻&nbsp; Also building &amp; exploring software development<br>
-        📁&nbsp; Check out my repos on <a href="https://github.com/anup-barman"><b>github@anup-barman</b></a>!
+        🧠&nbsp; Competitive programmer who enjoys algorithms &amp; problem solving<br>
+        💻&nbsp; Currently exploring software development beyond competitive programming<br>
+        🤖&nbsp; Diving into machine learning and its real-world applications<br>
+        📁&nbsp; Building, experimenting and sharing along the way!
       </p>
     </td>
     <td width="32%" align="center" valign="middle">
