@@ -31,7 +31,7 @@
       <p>
         🏆&nbsp; 2× ICPC Dhaka Regionalist (2024 &amp; 2025)<br>
         🧠&nbsp; Competitive programmer who enjoys algorithms &amp; problem solving<br>
-        💻&nbsp; Currently exploring software development beyond competitive programming<br>
+        💻&nbsp; Currently exploring software development beyond CP<br>
         🤖&nbsp; Diving into machine learning and its real-world applications<br>
         📁&nbsp; Building, experimenting and sharing along the way!
       </p>
