@@ -3,8 +3,8 @@
   <h1>Hi, I'm Anup Barman 👋</h1>
   <p>
     <b>Competitive Programmer</b> &nbsp;•&nbsp;
-    <b>Problem Solver</b> &nbsp;•&nbsp;
-    <b>Software Developer</b>
+    <b>Software Developer</b> &nbsp;•&nbsp;
+    <b>Machine Learning Enthusiast</b>
   </p>
 
   <p>
@@ -29,11 +29,11 @@
     <td width="530" valign="middle">
       <h3>🧑‍💻 About Me</h3>
       <p>
-        🏆&nbsp; 2× ICPC Dhaka Regionalist (2024 &amp; 2025)<br>
-        🧠&nbsp; Competitive programmer who enjoys algorithms &amp; problem solving<br>
-        💻&nbsp; Currently exploring software development beyond CP<br>
-        🤖&nbsp; Diving into machine learning and its real-world applications<br>
-        📁&nbsp; Building, experimenting and sharing along the way!
+        I started with competitive programming and somehow ended up
+        wanting to build everything too.<br><br>
+        2× ICPC Dhaka Regionalist | Specialist at Codeforces<br>
+        I enjoy algorithms, problem solving, and making things from scratch.<br>
+        Currently exploring software development and machine learning, with a growing collection of projects, experiments, and questionable ideas.
       </p>
     </td>
     <td width="240" align="center" valign="middle">
@@ -64,9 +64,9 @@
       <img src="./assets/elmo_fire.gif" width="200" alt="Elmo on Fire" style="border-radius: 8px;">
     </td>
     <td width="545" valign="middle">
-      <h3 align="right">🤝 Connect with Me</h3>
+      <h3 align="right">🤝 Reach Out (Or Don't, Elmo Won't Care)</h3>
       <p align="right">
-        Always open to discussing competitive programming, collaborating on software projects, or sharing contest post-mortems!
+        Always down to chat about competitive programming, code up random projects or doing contest post-mortems!
       </p>
       <p align="right">
         <a href="https://linkedin.com/in/anup-barman-b0609b37a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
