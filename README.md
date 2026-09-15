@@ -64,15 +64,15 @@
       <img src="./assets/elmo_fire.gif" width="200" alt="Elmo on Fire" style="border-radius: 8px;">
     </td>
     <td width="545" valign="middle">
-      <h3 align="right">Connect with Me 🤝</h3>
+      <h3 align="right">🤝 Connect with Me</h3>
       <p align="right">
         Always open to discussing competitive programming, collaborating on software projects, or sharing contest post-mortems!
       </p>
       <p align="right">
         <a href="https://linkedin.com/in/anup-barman-b0609b37a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://x.com/AnupBarmann" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-        <a href="https://facebook.com/exorcist.anup" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-        <a href="https://instagram.com/anupx_bee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <!-- <a href="https://facebook.com/exorcist.anup" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> -->
+        <!-- <a href="https://instagram.com/anupx_bee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> -->
         <a href="https://discord.com/users/killerb9079" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
         <a href="https://t.me/anupx_bee" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
         <a href="mailto:beedoescode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
