@@ -22,7 +22,7 @@
   </p>
 </div>
 
-<br />
+<!-- <br /> -->
 
 <table align="center">
   <tr>
@@ -63,11 +63,11 @@
       <img src="./assets/elmo_fire.gif" width="200" alt="Elmo on Fire" style="border-radius: 8px;">
     </td>
     <td width="545" valign="middle">
-      <h3>🤝 Connect with Me</h3>
-      <p>
+      <h3 align="right">Connect with Me 🤝</h3>
+      <p align="right">
         Always open to discussing competitive programming, collaborating on software projects, or sharing contest post-mortems!
       </p>
-      <p>
+      <p align="right">
         <a href="https://linkedin.com/in/anup-barman-b0609b37a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://x.com/AnupBarmann" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
         <a href="https://facebook.com/exorcist.anup" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
